@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @DeamonDrakX
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on RPG Thing
-- 📫 How to reach me email 
+- 👀 I’m interested in Programming
+- 🌱 I’m currently learning DOCKER!!!!
+- 💞️ I’m looking to collaborate system ADMIN kinda things
+- 📫 How to reach me geppetto316@gmail.com 
 
 <!---
 DeamonDrakX/DeamonDrakX is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
